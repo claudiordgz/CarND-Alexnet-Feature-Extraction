@@ -5,3 +5,5 @@ train.p
 .vscode
 *.p
 *.npy
+pip
+*.zip
